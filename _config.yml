@@ -1,12 +1,12 @@
 # Site settings
-title: The Minimum Viable Model
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+title: 我汹汹用水的月球
+description: '你好，陌生人' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/MVM-logo-full.svg"
-logo-icon: "/assets/img/branding/MVM-symbol.svg"
-logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
+url: "https://dwby123.github.io/TheMoon/" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/img/branding/TheMoon-logo-full.svg" #网站的标志
+logo-icon: "/assets/img/branding/MVM-symbol.svg" #较小的标志 通常是正方形
+logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # 必须是一个非svg文件
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -20,18 +20,18 @@ logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG f
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
+logo-dark: "/assets/img/branding/TheMoon-logo-full.svg" #深色模式logo
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Armando Maynez # add your name
-author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+author: 大尾巴羊 # add your name
+author-pic: moon1.jpg # 头像
+about-author: 陌生人<br>如果你路过时遇见我<br>想和我说话<br>你为什么不该和我说话呢 <br> 我为什么不该和你说话呢
 
 # Contact links
-email: armando.maynez@gmail.com # Add your Email address
-phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
+email: 这里是邮箱 # Add your Email address
+phone: 这里是电话 # Add your Phone number
+website: https://dwby123.github.io/TheMoon/ # Add your website
 linkedin: amaynez # Add your Linkedin handle
 github: amaynez # Add your Github handle
 twitter: '@MvmThe' # Add your Twitter handle
@@ -39,16 +39,16 @@ bandcamp: armandomaynez # Add your Bandcamp username
 stackoverflow: stackoverflow # Add your stackoverflow account
 
 # Newsletter
-mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
+mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4" #要配置时事通讯，请在 https://mailchimp.com 中创建一个帐户，设置一个 Web 注册表单，并将嵌入注册表单中的链接粘贴到文件中
 
 # Tracker
 analytics: G-R8SZS2YBZK
 fbadmin: ar.maybach
 
 # Paginate
-paginate: 6
+paginate: 6 #要在主页面显示的项目数
 paginate_path: 'page:num'
-words_per_minute: 200
+words_per_minute: 200 #在计算博客文章的阅读时间时，每分钟要考虑的缺省字数
 
 extensions:
   mermaid_enable: true
@@ -64,7 +64,7 @@ comments_opts:
   # Disqus
   discus_identifier: # Add your discus identifier
 
-# Build settings
+# Build settings 构建设置
 markdown: kramdown
 mathjax: true
 highlighter: rouge

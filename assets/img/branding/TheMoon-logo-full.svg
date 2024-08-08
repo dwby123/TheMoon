@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 360" style="enable-background:new 0 0 1920 360;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#326273;stroke:#326273;stroke-miterlimit:10;}
+	.st2{font-family:'MicrosoftYaHeiLight';}
+	.st3{font-size:320px;}
+	.st4{fill:none;stroke:#326273;stroke-width:10;stroke-miterlimit:10;}
+	.st5{opacity:0.9333;fill:none;stroke:#326273;stroke-width:8.8333;stroke-miterlimit:10;}
+	.st6{opacity:0.8667;fill:none;stroke:#326273;stroke-width:7.6667;stroke-miterlimit:10;}
+	.st7{opacity:0.8;fill:none;stroke:#326273;stroke-width:6.5;stroke-miterlimit:10;}
+	.st8{opacity:0.7333;fill:none;stroke:#326273;stroke-width:5.3333;stroke-miterlimit:10;}
+	.st9{opacity:0.6667;fill:none;stroke:#326273;stroke-width:4.1667;stroke-miterlimit:10;}
+	.st10{opacity:0.6;fill:none;stroke:#326273;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="373.43" y="-6.52" class="st0" width="1558.83" height="360"/>
+	<text transform="matrix(1 0 0 1 373.4257 310.4389)" class="st1 st2 st3">TheMoon</text>
+</g>
+<g>
+	<circle class="st4" cx="180.57" cy="182" r="171.48"/>
+	<ellipse class="st5" cx="180.57" cy="182" rx="148.96" ry="159.94"/>
+	<ellipse class="st6" cx="180.57" cy="182" rx="126.45" ry="148.4"/>
+	<ellipse class="st7" cx="180.57" cy="182" rx="103.93" ry="136.86"/>
+	<ellipse class="st8" cx="180.57" cy="182" rx="81.41" ry="125.32"/>
+	<ellipse class="st9" cx="180.57" cy="182" rx="58.89" ry="113.79"/>
+	<ellipse class="st10" cx="180.57" cy="182" rx="36.37" ry="102.25"/>
+</g>
+</svg>

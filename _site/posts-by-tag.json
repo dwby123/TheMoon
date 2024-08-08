@@ -3,162 +3,60 @@
 [   
       
   {
-  "tag" : "artificial intelligence",
+  "tag" : "太昊陵",
   "posts" : [
       
-      "./AI-and-intellectual-property.html",
-      
-      "./back-to-basics.html",
-      
-      "./deep-q-learning-tic-tac-toe.html"
+      "./%E4%B9%98%E5%9D%90%E7%81%AB%E8%BD%A6%E8%B7%AF%E8%BF%87%E9%BB%84%E6%B2%B3.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "coding",
+  "tag" : "我汹汹涌水的月球",
   "posts" : [
       
-      "./deep-q-learning-tic-tac-toe.html",
-      
-      "./neural-network-optimization-methods.html",
-      
-      "./ML-Library-from-scratch.html",
-      
-      "./conways-game-of-life.html",
-      
-      "./single-neuron-perceptron.html"
+      "./%E6%B0%B4%E5%A3%B0%E4%B8%AD%E7%9A%84%E5%8F%99%E4%BA%8B%E8%AF%97.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "copyright",
+  "tag" : "河流",
   "posts" : [
       
-      "./AI-and-intellectual-property.html"
+      "./%E6%B0%B4%E5%A3%B0%E4%B8%AD%E7%9A%84%E5%8F%99%E4%BA%8B%E8%AF%97.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "creativity",
+  "tag" : "狄俄倪索斯",
   "posts" : [
       
-      "./AI-and-intellectual-property.html"
+      "./%E4%B9%98%E5%9D%90%E7%81%AB%E8%BD%A6%E8%B7%AF%E8%BF%87%E9%BB%84%E6%B2%B3.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "deep Neural networks",
+  "tag" : "老友重逢，轻松的",
   "posts" : [
       
-      "./neural-network-optimization-methods.html"
+      "./%E4%B9%98%E5%9D%90%E7%81%AB%E8%BD%A6%E8%B7%AF%E8%BF%87%E9%BB%84%E6%B2%B3.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "general blogging",
+  "tag" : "通灵",
   "posts" : [
       
-      "./starting-the-adventure.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "life",
-  "posts" : [
-      
-      "./starting-the-adventure.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "machine learning",
-  "posts" : [
-      
-      "./AI-and-intellectual-property.html",
-      
-      "./back-to-basics.html",
-      
-      "./deep-q-learning-tic-tac-toe.html",
-      
-      "./neural-network-optimization-methods.html",
-      
-      "./ML-Library-from-scratch.html",
-      
-      "./single-neuron-perceptron.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "neural networks",
-  "posts" : [
-      
-      "./AI-and-intellectual-property.html",
-      
-      "./back-to-basics.html",
-      
-      "./ML-Library-from-scratch.html",
-      
-      "./single-neuron-perceptron.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "optimization",
-  "posts" : [
-      
-      "./neural-network-optimization-methods.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "python",
-  "posts" : [
-      
-      "./deep-q-learning-tic-tac-toe.html",
-      
-      "./ML-Library-from-scratch.html",
-      
-      "./conways-game-of-life.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "reinforcement learning",
-  "posts" : [
-      
-      "./deep-q-learning-tic-tac-toe.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "thoughts",
-  "posts" : [
-      
-      "./starting-the-adventure.html"
+      "./%E6%B0%B4%E5%A3%B0%E4%B8%AD%E7%9A%84%E5%8F%99%E4%BA%8B%E8%AF%97.html"
       
     ]
   } 
