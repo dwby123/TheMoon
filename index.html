@@ -1,39 +1,25 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
+---
+layout: home-page
+---
+{% include calculate_relative_base.html %}
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>TheMoon</title>
-  <style>
-    body {
-      margin: 0;
-    }
-  </style>
-</head>
-
-<body>
-  <div style="
-    background-color: antiquewhite;
-    text-align: center;
-    padding: 50px;">
-  </div>
-  <div style="
-  background-color:rgb(255, 183, 183);
-  text-align: center;
-  padding: 50px;">
-    <p>“陌生人，如果你路过时遇见我，想和我说话，你为什么不该和我说话呢？
-      <br>我为什么不该和你说话呢？”
-    </p>
-  </div>
-  <div style="
-  background-color: antiquewhite;
-  text-align: center;
-  padding: 50px;">
-   <p>我的网站
-  </p>
-  </div>
-
-</body>
-
-</html>
+<ol class="post-card-box clearfix">
+  {% for post in paginator.posts %}
+  {% include remove_double_slash.html %}
+  <li>
+    <div class="post-card">
+      <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">
+      </a>
+      <div class="post-card-body">
+        <p class="post-card-title-and-meta">
+          
+          <a href="{{ post_url }}" class="post-card-link">
+          {{ post.title }}
+          </a>
+          {% include post_meta.html type="post-card-meta" date="none" %}
+        </p>
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ol>
